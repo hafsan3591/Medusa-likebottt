@@ -1,0 +1,46 @@
+{
+  "config": {
+    "status": "off",
+    "public": false,
+    "limit": 1,
+    "premium_required": false
+  },
+  "groups": {
+    "-1004339456524": {
+      "name": "𝐌𝐄𝐃𝐔𝐒𝐀 𝐋𝐈𝐊𝐄 𝐆𝐑𝐎𝐔𝐏",
+      "username": "@MEDUSA_LIKE",
+      "by": 8728427543,
+      "date": "2026-10-31"
+    },
+    "-1004346755720": {
+      "name": "ᬊᬁ HAꟻꙄAᴎ WOᴙ⅃b ⚠",
+      "username": "@HAFSAN_BOT_HK",
+      "by": 8728427543,
+      "date": "2026-10-31"
+    }
+  },
+  "channels": {
+    "@MEDUSA_LIKE_CHANNEL": {
+      "id": -1004388787012,
+      "name": "𝐌𝐄𝐃𝐔𝐒𝐀 𝐋𝐈𝐊𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋",
+      "by": 8728427543,
+      "date": "2026-10-31"
+    }
+  },
+  "vip": {},
+  "users": {},
+  "stats": {
+    "2026-10-31": {
+      "total": 1,
+      "users": {
+        "8433104172": 1
+      }
+    },
+    "2026-11-01": {
+      "total": 1,
+      "users": {
+        "8433104172": 1
+      }
+    }
+  }
+}

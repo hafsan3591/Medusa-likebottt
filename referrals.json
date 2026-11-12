@@ -1,0 +1,86 @@
+{
+  "users": {
+    "8728427543": {
+      "name": "HAFSAN-KUN HK",
+      "username": "HAFSAN_KUN",
+      "count": 9999999,
+      "since": "2026-11-08"
+    },
+    "6385222318": {
+      "name": "Md BITHDUT",
+      "username": "Bithduthasan",
+      "count": 3,
+      "since": "2026-11-08"
+    },
+    "9093029033": {
+      "name": "ZISUN YT",
+      "username": "Zisun_yt",
+      "count": 0,
+      "since": "2026-11-08"
+    },
+    "7932111660": {
+      "name": "BaiJid Vai",
+      "username": "",
+      "count": 0,
+      "since": "2026-11-08"
+    },
+    "7176002628": {
+      "name": "『𝑪𝑨𝑻𝑺 𝑨𝑰』『𝑺𝑶𝑳𝑨𝒀𝑴𝑨𝑵』🐱",
+      "username": "CATS_AI_solayman",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "8869863145": {
+      "name": "SELLAR FF",
+      "username": "SELLARFFOP",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "8433104172": {
+      "name": "MEDUSA",
+      "username": "MEDUSA_HK",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "8901853850": {
+      "name": "''''''''''''''’''''’’’’’’’์์์์์์์์์์์์์์",
+      "username": "",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "9006306111": {
+      "name": "নুসরাত",
+      "username": "Nusrat4422",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "8200244081": {
+      "name": "MARUF",
+      "username": "xmmaruf22",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "1800250693": {
+      "name": "TOM",
+      "username": "",
+      "count": 0,
+      "since": "2026-11-09"
+    },
+    "7583625815": {
+      "name": "Phoenix",
+      "username": "",
+      "count": 0,
+      "since": "2026-11-10"
+    }
+  },
+  "referred": {
+    "8945919144": 8728427543,
+    "7626119352": 6385222318,
+    "7173335465": 6385222318,
+    "7180737048": 6385222318
+  },
+  "pending": {},
+  "notified": [
+    8728427543
+  ]
+}

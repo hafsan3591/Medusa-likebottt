@@ -1,0 +1,38 @@
+{
+  "users": {
+    "8728427543": {
+      "spent": 10,
+      "bonus": 0
+    },
+    "8433104172": {
+      "spent": 5,
+      "bonus": 2,
+      "gift": 10006
+    },
+    "7176002628": {
+      "spent": 0,
+      "bonus": 0,
+      "gift": 99999
+    }
+  },
+  "auto": {
+    "11214489525_bd": {
+      "uid": "11214489525",
+      "region": "bd",
+      "owner": 8728427543,
+      "days_total": 7,
+      "days_remaining": 3,
+      "added_at": "2026-11-09",
+      "last_liked": "2026-11-10",
+      "last_auto_day": "2026-11-12",
+      "total_likes": 12,
+      "completed": false
+    }
+  },
+  "auto_groups": {
+    "-1004339456524": {
+      "name": "𝐌𝐄𝐃𝐔𝐒𝐀 𝐋𝐈𝐊𝐄 𝐆𝐑𝐎𝐔𝐏",
+      "added_by": 8728427543
+    }
+  }
+}
